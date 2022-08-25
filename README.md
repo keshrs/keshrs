@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @keshrs -- known in some circles as Rikesh, Kesh, or get this... Rik
-- 👀 I’m interested in XR development, frontend, graphics, user-facing technologies, and MOST IMPORTANTLY contributing to ethical technology + culture.
-- 🌱 I’m currently learning frontend React ecosystem, XR scipting + UX, and general mobile & app systems.
-- 💞️ I’m looking to collaborate on anything you can convince me will improve how people & communities use technology. Just reach out :)
-- 📫 How to reach me: email on my profile, or if you're feeling creative, requesting me for review!
+## Howdy, I’m Rikesh - also known, in some places, as: @keshrs, Kesh, Rik.
 
-Main focus right now, as far as coding/tech goes, is improving my skills as a software engineer and growing my career. That being said, in the near future I hope to learn, create and contribute to projects involving audio processing, music software, visualization, UX implementation, and general tools for building community (whether a D&D player assistant or municipal resource management)!
+**If we haven't met before, here's my canned GitHub intro**:
 
-<!---
-keshrs/keshrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software engineer with a lean towards all things user-facing; I fancy design, psychology, data visualization, and writing. In the past, projects I've enjoyed have included XR research & development (building holograms for live performances, city maps, and more!), UX design & frontend implementations for 3D experiences, introductory graphics programming, and improving application accessibility. What do these have in common? I couldn't tell you exactly, but they've all made me feel like I'm visibly contributing to the _sometimes nebulous_ idea of "technology improving humanity", but, like, actually.
+
+Lately, I’ve been working with React-based Lua (Luau + Roact) to build app frontend and client systems at Roblox. Often, this also involves peeking into C++ and tweaking systems + game engine code. I've also taken some interest in playing with audio plugins for DAWs, data visualization, and XR scipting + UX. However, as a young engineer in this complex world of "Tech", I'm often learning my lessons from the challenges put on my plate and growing from there.
+
+
+I’m looking to collaborate on anything you can convince me will improve how people & communities use technology. Just reach out :)
+
+If you want to reach me, see: email on my profile, or if you're feeling creative, requesting me for review!
