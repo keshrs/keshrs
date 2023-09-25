@@ -1,12 +1,12 @@
 ## Howdy, I’m Rikesh - also known, in some places, as: @keshrs, Kesh, Rik.
 
-**If we haven't met before, here's my canned GitHub intro**:
+I am a software engineer with a lean towards all things user-facing. Past projects I've enjoyed include XR research & development (3D UI/UX for live performances, city maps, and more!), interaction design + engineering, simple graphics programming, and making software more accessible. I'm happiest when I feel like I'm building something that improves and brings out humanity, but not in the "tech visionary" way, like, actually.
 
-I am a software engineer with a lean towards all things user-facing; I fancy design, psychology, data visualization, and writing. In the past, projects I've enjoyed have included XR research & development (building holograms for live performances, city maps, and more!), UX design & frontend implementations for 3D experiences, introductory graphics programming, and improving application accessibility. What do these have in common? I couldn't tell you exactly, but they've all made me feel like I'm visibly contributing to the _sometimes nebulous_ idea of "technology improving humanity", but, like, actually.
+At Roblox, I’ve been working primarily with our React-based Lua client and occasionally C++ game engine code. Projects have included building a timespent "session" management system and engineering our UX across desktop, console, mobile, and more. Building UI compatible with many platforms is an entertaining problem. Building UI which is usable for all people is an important one. I get to focus on both!
 
-Lately, I’ve been working with React-based Lua (Luau + Roact) to build app frontend and client systems at Roblox. Often, this also involves peeking into C++ and tweaking systems + game engine code. I've also taken some interest in playing with audio plugins for DAWs, data visualization, and XR scipting + UX. However, as a young engineer in this complex world of "Tech", I'm often learning my lessons from the challenges put on my plate and growing from there.
+At home, I've also taken some interest in building audio plugins for DAWs, 3D web, visual programming, and bite-sized indie game dev. The truth is, though, most of these projects never see the light of day. I'm a creatively driven person and my life doesn't revolve around technology. Rather, I feel like I have a symbiotic relationship with it where it helps me bring my ideas to life, and in turn I use the skills I pick up doing that to give back and improve the foundations of our technology.
 
+My greatest passion in life is making things. This manifests most often with music, creative writing, programming, and digital art. My second greatest passion is making things _better for the people around me_. In everything I do, I hope to make progress on both fronts.
 
-I’m looking to collaborate on anything you can convince me will improve how people & communities use technology. Just reach out :)
 
 If you want to reach me, see: email on my profile, or if you're feeling creative, requesting me for review!
